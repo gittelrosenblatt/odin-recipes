@@ -11,7 +11,7 @@ body {
     border: 5px solid #544ea0;
     background-color: #bdd5ef;
     color: #2F3640;
-    padding: 10px;
+    padding: 30px;
     text-align: center;
     margin: 50px 10%;
 }
@@ -23,7 +23,37 @@ hr {
     width: 60%;
 }
 
+img {
+    border: 5px solid #544ea0;
+}
+
+.basic {
+    border: 5px solid #544ea0;
+    background-color: #bdd5ef;
+    color: #2F3640;
+    padding: 30px;
+    text-align: center;
+    margin: 50px 10%;
+}
+
+.sandwich {
+    border: 5px solid #544ea0;
+    background-color: #bdd5ef;
+    color: #2F3640;
+    padding: 30px;
+    text-align: center;
+    margin: 50px 10%;
+}
+
+.quesadilla {
+    border: 5px solid #544ea0;
+    background-color: #bdd5ef;
+    color: #2F3640;
+    padding: 30px;
+    text-align: center;
+    margin: 50px 10%;
+}
+
 .list {
     text-align: left;
-    padding-left: 20px;
 }
