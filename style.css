@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F5F6FA;
+}
+
+.homepage {
+    border: 5px solid #544ea0;
+    background-color: #bdd5ef;
+    color: #2F3640;
+    padding: 10px;
+    text-align: center;
+    margin: 50px 10%;
+}
+
+hr {
+    background-color:#544ea0;
+    border: none;
+    height: 3px;
+    width: 60%;
+}
+
+.list {
+    text-align: left;
+    padding-left: 20px;
+}
